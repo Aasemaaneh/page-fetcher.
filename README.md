@@ -8,7 +8,7 @@ It is built with Node.js and utilizes the \`request\` and \`fs\` modules.
 
 1. Clone the repository:
    \`\`\`
-   git clone git@github.com:Aasemaaneh/page-fetcher..git
+   git clone git@github.com:Aasemaaneh/page-fetcher.git
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`
